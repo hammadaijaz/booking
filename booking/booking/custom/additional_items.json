@@ -8,14 +8,14 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-   "creation": "2023-04-14 22:11:13.295017",
+   "creation": "2023-04-29 12:17:46.616681",
    "default_value": null,
    "doc_type": "Additional Items",
    "docstatus": 0,
    "doctype_or_field": "DocField",
    "field_name": "valuation_rate",
    "idx": 0,
-   "modified": "2023-04-14 22:11:13.295017",
+   "modified": "2023-04-29 12:17:46.616681",
    "modified_by": "Administrator",
    "name": "Additional Items-valuation_rate-fetch_from",
    "owner": "Administrator",
@@ -25,7 +25,7 @@
    "property": "fetch_from",
    "property_type": "Small Text",
    "row_name": null,
-   "value": "item.valuation_rate"
+   "value": ""
   },
   {
    "_assign": null,
